@@ -1,5 +1,3 @@
-# Clean and Minimal Score Keeping App 
-
 # How it works
 - Two players
 - You can specify the winning score in the input element
