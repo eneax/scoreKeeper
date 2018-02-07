@@ -87,6 +87,4 @@ button:active {
 
 .winner { color: rgba(23, 105, 58, 1); }
 
-@media (max-width:320px) {
-	html { font-size: .85em; }
-}
+@media (max-width:320px) { html { font-size: .85em; } }
